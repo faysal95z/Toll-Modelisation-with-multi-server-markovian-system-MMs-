@@ -1,4 +1,3 @@
-```
 # Toll Plaza Queueing Simulation (M/M/s Model)
 
 A Python simulation of a highway toll plaza using a Multi-Server Markovian System (M/M/s queue). Models vehicle arrivals and service times across different payment types (telepayment, card, cash) to analyze queue dynamics and optimize booth allocation.
@@ -27,4 +26,3 @@ A Python simulation of a highway toll plaza using a Multi-Server Markovian Syste
 - Service times per payment type
 
 The simulation outputs graphical representations of queue states and a plot of average vehicles per booth over time.
-```
