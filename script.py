@@ -284,4 +284,5 @@ for G in HISTORY :
 
 plt.plot(Xflux,Yflux)
 plt.title(f"Nb moyen de vehicules par guichets en fonction du temps (en dt = {60/lambdA}s)")
+
 plt.show()
